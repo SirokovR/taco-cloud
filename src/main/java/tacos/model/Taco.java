@@ -1,4 +1,4 @@
-package tacos;
+package tacos.model;
 import java.util.List;
 // end::allButValidation[]
 import javax.validation.constraints.NotNull;
